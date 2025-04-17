@@ -1,3 +1,6 @@
+## Readme for the project
+
+- Coming from 'dev-rob'
 ## Git guide
 
 - Another branch
