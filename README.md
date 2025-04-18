@@ -7,5 +7,8 @@
 - Another branch
 
 - Im adding this from feature-branch
+<<<<<<< Updated upstream
 
 - Git Gui
+=======
+>>>>>>> Stashed changes
